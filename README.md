@@ -1,6 +1,6 @@
 # 👁️ AI 879 – Machine Vision 
 
-This repository contains coursework and MATLAB implementations for **AI 879 (Summer 2025) – Machine Vision**.  
+This repository contains coursework and MATLAB implementations for **AI 879 – Machine Vision**.  
 It includes the course syllabus and hands-on projects demonstrating core concepts in image processing and computer vision.
 
 ---
