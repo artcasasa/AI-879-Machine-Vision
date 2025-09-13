@@ -30,7 +30,4 @@ Open MATLAB (recommended: R2023b) or GNU Octave.
  ```bash
 Run any script from matlab-scripts/:
  ```
-
-matlab
-Copy code
 >> Edge_Detector_Comparison
